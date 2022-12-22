@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" height="300 width="300"/>
 </div>  
 
-<h1 align="center">Hola👋 Mi nombre es Diego Mata</h1>
+<h1 align="center">Hola 🙋‍♂️ Mi nombre es Diego Mata</h1>
 
 <h3 align="center">Soy desarrallor de software Full-Stack 👨‍💻</h3>
 
